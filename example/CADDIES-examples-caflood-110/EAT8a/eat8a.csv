@@ -1,0 +1,35 @@
+Simulation Name			, EA Benchmarks Test 8a
+Short Name (for outputs)	, eat8a
+Version	   			, 1,0,0
+Model Type			, WCA2Dv2
+Time Start (seconds)		, 0
+Time End   (seconds)		, 18000
+Max DT (seconds)		, 60
+Min DT (seconds)		, 0.01
+Update DT (seconds)		, 60
+Alpha (Fraction DT 0.0-1.0)	, 0.1
+Max Iterations			, 1000000
+Roughness Global		, 0.05
+Ignore WD (meter)		, 0.0001
+Tolerance (meter)		, 0.0001
+Slope Tolerance (%)		, 0.528
+Boundary Ele (Hi/Closed-Lo/Open), 1000
+Elevation ASCII			, test8DEMFinal.asc
+Rain Event CSV			, RainBC.csv
+Water Level Event CSV		, 
+Inflow Event CSV		, InflowBC.csv
+Time Plot CSV			, WLpoints.csv, VELpoints.csv
+Raster Grid CSV			, WDraster.csv, VELraster.csv
+Output Console			, true
+Output Period (s)		, 300
+Output Computation Time		, true
+Check Volumes	   		, true
+Remove Proc Data (No Pre-Proc)	, true
+Remove Pre-Proc Data		, true
+Raster VEL Vector Field		, true
+Raster WD Tolerance (meter)	, 0.01
+Update Peak Every DT		, false
+Expand Domain                   , false
+Ignore Upstream			, true
+Upstream Reduction (meter)	, 0.5
+

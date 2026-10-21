@@ -1,0 +1,6 @@
+Time Plot Name		, EA Benchmarks Test 8a Velocity Points
+Physical Variable	, VEL
+Points Name		, 1,	  2,	  3,	  4,	  5,	  6,	  7,	  8,      9
+Points X Coo		, 264682, 264538, 264356, 264202, 264308, 264574, 264710, 264308, 264222
+Points Y Coo		, 664581, 664665, 664487, 664553, 664647, 664555, 664699, 664647, 664611
+Period (seconds)	, 60
